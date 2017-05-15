@@ -1,0 +1,33 @@
+{
+	"result": [
+		{
+		  "imgSrc" : "../static/images/img01.jpg",
+		  "name" : "物品1",
+		  "des" : "这算是一件可爱的物品",
+		  "price" : 100,
+		  "amount" : 1
+		},
+		{
+		  "imgSrc" : "../static/images/img02.jpg",
+		  "name" : "物品2",
+		  "des" : "这算是一件令人惊讶的物品",
+		  "price" : 10,
+		  "amount" : 1
+		},
+		{
+		  "imgSrc" : "../static/images/img03.jpg",
+		  "name" : "物品3",
+		  "des" : "这算是一件超级划算的物品",
+		  "price" : 5.55,
+		  "amount" : 1
+		},
+		{
+		  "imgSrc" : "../static/images/img04.jpg",
+		  "name" : "物品4",
+		  "des" : "这算是一件很清新的物品",
+		  "price" : 66.6,
+		  "amount" : 1
+		}
+	]		
+}
+

@@ -1,0 +1,30 @@
+{
+	"result": [
+		{
+		  "name" : "littlebowl",
+		  "detail" : "深圳市福田区莲花山顶某一间房",
+		  "phone" : "13580512312"
+		},
+		{
+		  "name" : "littlebowl",
+		  "detail" : "深圳市宝安区凤凰山顶某一座庙",
+		  "phone" : "13580512312"
+		},
+		{
+		  "name" : "littlebowl",
+		  "detail" : "深圳市罗湖区梧桐山顶某一座庙",
+		  "phone" : "13580512312"
+		},
+		{
+		  "name" : "littlebowl",
+		  "detail" : "深圳市龙岗区较场尾海边某一栋别墅",
+		  "phone" : "13580512312"
+		},
+		{
+		  "name" : "littlebowl",
+		  "detail" : "深圳市龙华区宇宙中心处",
+		  "phone" : "13580512312"
+		}
+	]		
+}
+
